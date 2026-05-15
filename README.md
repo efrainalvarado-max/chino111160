@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chino111160
-- 👀 I’m interested in quantum computing  
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in quantum computing, IoTa 
+- 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
