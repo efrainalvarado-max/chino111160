@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @chino111160
-- 👀 I’m interested in quantum computing  
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+# 👋 Hola, soy @chino111160 | Hi, I'm @chino111160
 
-<!---
-chino111160/chino111160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🇲🇽 Español
+
+Soy **Adolfo**, un entusiasta de la tecnología dando sus primeros pasos en el mundo de la programación, la ciencia de datos, redes complejos, etc.
+
+- 👀 **Me interesa:** Computación cuántica, ciencia de datos, redes complejas, etc.
+- - 🌱 **Actualmente aprendiendo:** Computacion cuantica, Python, Git, VSC, etc.
+  - - 💞️ **Busco aprender en:** Proyectos computacion cuantica, con Python, ciencia de datos, redes complejas, etc.
+    - - 📫 **Cómo contactarme:** chino111160@gmail.com
+      - - 🛠️ **Herramientas que estoy aprendiendo:** computacion cuantica, Python,  VSC, Git, etc.
+       
+                 
+> 🚀 *"Every expert was once a beginner." — Cada experto fue una vez un principiante.*
